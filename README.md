@@ -52,6 +52,7 @@ Former electrical and electronic engineer turned security researcher with **2+ y
 | Cantina | Hyperlend | 🏅 **5th / 256** | $2,751 |
 | Sherlock | Perennial V2 Update | 🏅 **5th** | $1,562 |
 | Sherlock | GMX | 🏅 **6th** | $5,623 |
+| Code4rena | Panoptic: Next Core | 🏅 **6th** | $2,800 |
 | Codehawks | Chainlink CCIP | 🏅 **6th** | $10,301 |
 | Cantina | Superform (core) | 🏅 **7th / 50** | $5,937 |
 | Sherlock | Aloe | 🏅 **8th** | $443 |
@@ -70,6 +71,7 @@ Former electrical and electronic engineer turned security researcher with **2+ y
 | **Regnum Fx** | Private Audit |
 | **Ample Earn** | Private Audit |
 | **PalmUSD** | Private Audit |
+| **ShareToken** | Private Audit |
 
 </div>
 

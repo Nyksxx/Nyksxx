@@ -65,13 +65,14 @@ Former electrical and electronic engineer turned security researcher with **2+ y
 
 <div>
 
-| Protocol | Type |
-|:--------:|:----:|
-| **Euler** | Private Audit |
-| **Regnum Fx** | Private Audit |
-| **Ample Earn** | Private Audit |
-| **PalmUSD** | Private Audit |
-| **ShareToken** | Private Audit |
+| Protocol | Type | Language | Company |
+|:--------:|:----:|:--------:|:-------:|
+| **Euler** | Private Audit | Solidity | Pashov Audit Group |
+| **Regnum Fx** | Private Audit | Solidity | Pashov Audit Group |
+| **Ample Earn** | Private Audit | Solidity | Pashov Audit Group |
+| **PalmUSD** | Private Audit | Rust | Pashov Audit Group |
+| **ShareToken** | Private Audit | Solidity | Pashov Audit Group |
+| **Pumpcade** | Private Audit | Rust | Pashov Audit Group |
 
 </div>
 
